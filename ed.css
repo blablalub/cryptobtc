@@ -1,0 +1,25 @@
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+#chartContainer {
+  width: 100%;
+  max-width: 1000px;
+  height: 600px;
+  margin: auto;
+}
+
+canvas {
+  background-color: #222;
+  border-radius: 8px;
+  width: 100% !important;
+  height: 100% !important;
+}
